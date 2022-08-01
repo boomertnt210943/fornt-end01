@@ -125,7 +125,7 @@
         top: 100%;
         opacity: 1;
         transition: all 0.5s ease;
-        z-index: 99;
+        z-index: -1;
         height: 60vh;
         font-size: 1.6rem;
     }
@@ -456,7 +456,7 @@
     justify-content: center;
     align-items: center;
     height: 100%;
-    padding: 1rem 0;
+    padding: 10rem 0;
 }
 
 .services h1 {
